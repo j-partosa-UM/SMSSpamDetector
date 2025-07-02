@@ -10,8 +10,6 @@ A simple web app built with **Python**, **scikit-learn**, and **Streamlit** that
 ![App Screenshot](app-screenshot(1).png)
 ![App Screenshot](app-screenshot(2).png)
 
-> Replace `screenshot.png` with your actual screenshot file in the project directory.
-
 ---
 
 ## ⚙️ Features
